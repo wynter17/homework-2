@@ -1,6 +1,8 @@
 package ex5;
 import java.util.*;
 
+//https://www.hackerrank.com/challenges/java-1d-array-introduction/problem?isFullScreen=true
+
 public class Array1d {
 
 
