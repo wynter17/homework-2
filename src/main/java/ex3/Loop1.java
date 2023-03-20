@@ -1,7 +1,7 @@
 package ex3;
 import java.io.*;
 
-
+//https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=true
 
 public class Loop1 {
     public static void main(String[] args) throws IOException {
